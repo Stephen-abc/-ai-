@@ -1,6 +1,6 @@
 {
   "appId": "com.aiwatermark.remover",
   "appName": "AI去水印",
-  "webDir": ".",
+  "webDir": "www",
   "bundledWebRuntime": false
 }
